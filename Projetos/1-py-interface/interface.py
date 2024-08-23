@@ -21,8 +21,7 @@ botao.pack(pady=5)
 
 # Criar Rótulo para mostrar o resultado "Label"
 label_resultado = tk.Label(janela, text="")
-label_resultado.pack(pady=5)                                                                                     
+label_resultado.pack(pady=5)
 
 # Executar a janela principal
 janela.mainloop()
-                                                                                                                                                                                                                                                                                                 
